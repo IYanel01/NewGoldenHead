@@ -1,6 +1,6 @@
 NewGoldenHead is a plugin that introduces a special Golden Head item with unique effects. When consumed, this magical head grants the player regeneration and, optionally, a speed boost. The plugin is highly configurable, allowing server administrators to customize the duration and strength of the effects.
 
-[IMG]https://i.imgur.com/F7UmhzH.png[/IMG]
+![Image Description](https://i.imgur.com/F7UmhzH.png)
 
  Features:
 - Adds a new Golden Head item with a custom texture.
@@ -21,12 +21,12 @@ Installation:
 5. Use the provided commands to give Golden Heads to players and enjoy!
 
 Configuration:
-[code]The configuration file `config.yml` includes the following options:
+The configuration file `config.yml` includes the following options:
 - `healing-speed`: The speed of the regeneration effect.
 - `healing-time`: The duration of the regeneration effect in seconds.
-- `enable-speed-effect`: Enable or disable the speed boost effect.[/code]
+- `enable-speed-effect`: Enable or disable the speed boost effect.
 
  Example Configuration:
-[code]healing-speed: 1
+healing-speed: 1
 healing-time: 10
-enable-speed-effect: true[/code]
+enable-speed-effect: true
