@@ -1,0 +1,4 @@
+only-players: "&cOnly players can use this command."
+give-head: "&eYou have been given a Golden Head."
+reload-success: "&aConfiguration reloaded successfully."
+no-permission: "&cYou do not have permission to use this command."

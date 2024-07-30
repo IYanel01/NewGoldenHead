@@ -1,0 +1,20 @@
+name: NewGoldenHead
+version: '023 Beta'
+main: org.yanel.newGoldenHead.NewGoldenHead
+api-version: '1.21'
+authors: [Yanel]
+description: Plugin to give a golden head that heals players.
+website: https://zaxnetwork.xyz
+commands:
+  newgoldenhead:
+    description: Give a player a golden head.
+    usage: /newgoldenhead give
+    permission: newgoldenhead.give
+    aliases: [ngh, ghead, goldenhead]
+permissions:
+  newgoldenhead.give:
+    description: Allows the player to use the /newgoldenhead give command
+    default: op
+  newgoldenhead.reload:
+    description: Allows the player to use the /newgoldenhead reload command
+    default: op
